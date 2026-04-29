@@ -2,6 +2,12 @@
 
 Esta aplicación simula un flujo de registro robusto para una plataforma bancaria, implementando validaciones estrictas, manejo de datos asíncronos y una interfaz de usuario moderna.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/75c63c28-2a99-44ce-9e8c-16e492767df5" />
+<img width="1900" height="1071" alt="image" src="https://github.com/user-attachments/assets/08fe244d-2681-432f-b56b-6b74632b7810" />
+<img width="938" height="707" alt="image" src="https://github.com/user-attachments/assets/68e014d0-2c7b-47a1-aa27-a5012e257d38" />
+
+
+
 ## Características
 
 El proyecto cubre los siguientes conceptos técnicos:
