@@ -31,15 +31,15 @@ Sigue estos pasos para correr el proyecto localmente:
   
 2. Entrar a la carpeta
    ```bash
-  cd RegistroBanco
+    cd RegistroBanco
 
 3. Instalar dependencias
    ```bash
-  npm install
+    npm install
 
 4. Ejecutar el servidor
    ```bash
-  ng serve
+    ng serve
   
 ## Development server
 
