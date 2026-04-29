@@ -1,10 +1,10 @@
-# 🏦 Sistema de Registro - Banco Digital
+# Sistema de Registro - Banco Digital
 
 Esta aplicación simula un flujo de registro robusto para una plataforma bancaria, implementando validaciones estrictas, manejo de datos asíncronos y una interfaz de usuario moderna.
 
-## 🚀 Características y Requisitos Cumplidos
+## Características
 
-El proyecto cubre todos los conceptos técnicos solicitados en la práctica:
+El proyecto cubre los siguientes conceptos técnicos:
 
 - **Angular Reactive Forms:** Implementación completa mediante `FormGroup`, `FormControl` y `FormArray`.
 - **Validaciones en Tiempo Real:** - Mensajes de error amigables que solo se muestran cuando el campo ha sido interactuado (`touched` o `dirty`).
@@ -15,20 +15,20 @@ El proyecto cubre todos los conceptos técnicos solicitados en la práctica:
 - **Validaciones Asíncronas:** - Simulación de consulta de disponibilidad de Email mediante `setTimeout` para verificar correos ya registrados.
 - **Manejo Dinámico de Datos:** Uso de `FormArray` para la gestión de múltiples números telefónicos de forma dinámica.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Angular 17+**
 - **TypeScript**
 - **CSS3** (Diseño responsivo con Flexbox y variables)
 
-## 💻 Instalación y Ejecución
+## Instalación y Ejecución
 
 Sigue estos pasos para correr el proyecto localmente:
 
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/davidcruz07/RegistroBanco.git](https://github.com/davidcruz07/RegistroBanco.git)
-
+  
 2. Entrar a la carpeta
    ```bash
   cd RegistroBanco
@@ -40,7 +40,7 @@ Sigue estos pasos para correr el proyecto localmente:
 4. Ejecutar el servidor
    ```bash
   ng serve
-
+  
 ## Development server
 
 To start a local development server, run:
